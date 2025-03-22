@@ -2,9 +2,7 @@
 
 ###
 
-<div aling="center">
 👋 Hi, I’m **Marco Kuidja**, a passionate **Software Engineer** and **Educator** with a strong focus on **backend development, cloud computing, and blockchain**. I specialize in **Rust, Node.js, TypeScript, and Java**, building scalable and secure applications. I'm also dedicated to **teaching and mentoring developers**, helping them master **Rust, cloud-native technologies, and software engineering best practices**. Currently, I'm deepening my expertise in **security and threat detection** through the **Wazuh project**. Always exploring new technologies, I believe in **building, learning, and sharing knowledge**. Let's connect and innovate! 🚀  
-</div>
 
 ###
 
